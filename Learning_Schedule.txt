@@ -4,6 +4,7 @@ Blogs
   
 Products
   Zookeeper
+  Redis
   Kafka
   Storm
 
