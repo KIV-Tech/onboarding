@@ -8,6 +8,11 @@ Products
   Kafka
   Storm
 
+Caching
+  Redis
+  Memcached
+  Hazelcast
+  
 Java
   NIO
 
