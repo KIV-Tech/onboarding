@@ -1,3 +1,7 @@
+Blogs
+  http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones
+  
+  
 Products
   Zookeeper
   Kafka
